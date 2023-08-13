@@ -1,0 +1,19 @@
+body{
+    background-color: #fff;
+}
+#win-emoji{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    display: none;
+}
+#loss-emoji{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    display: none;
+}
