@@ -17,3 +17,12 @@ body{
     margin: auto;
     display: none;
 }
+#btn{
+    display: flex;
+    margin: auto;
+    padding: 15px;
+    font-size: 13px;
+    background-color: #a2e28f;
+    border-radius: 5px;
+    display: none;
+}
