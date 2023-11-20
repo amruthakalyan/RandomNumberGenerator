@@ -3,6 +3,9 @@
     let img2 = document.getElementById("loss-emoji");
     let btn = document.getElementById("btn");
  let num= prompt("Enter the no from 1 to 10 only");
+ if(num == ' '){
+   prompt("please Enter the number");
+ }
  let randomNum = Math.floor(Math.random()*10);
  console.log(randomNum);
  
